@@ -9,3 +9,5 @@ Atirar: Botao esquerdo do mouse
 Recarregar: R
 
 Interacoes: E
+
+Pause: ESC ou P
